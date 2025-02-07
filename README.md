@@ -2,12 +2,27 @@
 
 This repository contains a collection of my coding contributions.  
 
-### 📌 Challenges
-- **[PHP Challenges](https://github.com/amrangry/PHP-Task-Assignment)**  
-  A collection of PHP task challenges.  
+- 📌 **[PHP Challenges](https://github.com/amrangry/PHP-Task-Assignment)**: A collection of PHP task challenges.
+- 📱 **iOS Apps**: A collection of iOS apps & demos.
+ 	 - **[iStarWars - Swift - SwiftUI ](https://github.com/amrangry/iStarWars)**
+  	 - **[NYTimes - Swift - UIKit](https://github.com/amrangry/NYTimes)**
+  	 - **[iCar - Swift - UIKit](https://github.com/amrangry/iCar)**
+  	 - **[RealEstates - Swift - UIKit](https://github.com/amrangry/RealEstates_demo)**
+ 	 - **[backbase - Swift](https://github.com/amrangry/backbase)**
+ 	 - **[Marvel - Objective-C](https://github.com/amrangry/Marvel_iOSApp)**  
+ 	 - **[GoEuro - Objective-C](https://github.com/amrangry/GoEuroDemo)**
+ 	 - **[UberLike – Google Maps – Objective-C](https://github.com/amrangry/GoogleMaps_ios_UberLike)**
+- 🔧 **iOS UI & Utilities**: Handy tools and utilities for iOS development
+	- **[TagsCollection - Swift](https://github.com/amrangry/TagsCollection)**
+	- **[ClockWise - Swift](https://github.com/amrangry/ClockWise)**
+   	- **[ScreenCaptureDetector - Swift](https://github.com/amrangry/ScreenCaptureDetector)**
+	- **[FileCaching - Swift](https://github.com/amrangry/FileCaching)**
+	- **[CustomerSearchBar - Swift - UIKit](https://github.com/amrangry/CustomerSearchBar)**
+	- **[ImagePickerHandler - Swift](https://github.com/amrangry/ImagePickerHandler)**
+	- **[iOS Firebase Push Notification Sample – Swift](https://github.com/amrangry/iOS_Firebase_PushNotification_Sample)**
+	- **[JailBrokenCheckerUtility – Objective-C](https://github.com/amrangry/JailBrokenCheckerUtility)**
 
 > Stay tuned for more repositories! 🚀  😊
-
 
 ## **Author**
 
