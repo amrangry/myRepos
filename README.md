@@ -20,7 +20,7 @@ This repository contains a collection of my coding contributions.
 	- **[CustomerSearchBar - Swift - UIKit](https://github.com/amrangry/CustomerSearchBar)**
 	- **[ImagePickerHandler - Swift](https://github.com/amrangry/ImagePickerHandler)**
 	- **[iOS Firebase Push Notification Sample – Swift](https://github.com/amrangry/iOS_Firebase_PushNotification_Sample)**
-	- **[JailBrokenCheckerUtility – Objective-C](https://github.com/amrangry/JailBrokenCheckerUtility)**
+	- **[JailBrokenCheckerUtility – Swift](https://github.com/amrangry/JailBrokenCheckerUtility)**
 
 > Stay tuned for more repositories! 🚀  😊
 
