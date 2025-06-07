@@ -23,9 +23,20 @@ This repository contains a collection of my coding contributions.
 	- **[JailBrokenCheckerUtility – Swift](https://github.com/amrangry/JailBrokenCheckerUtility)**
 
 > Stay tuned for more repositories! 🚀  😊
+> 
+> **“Rafiki”** is a strong, meaningful name — especially if you want something friendly and memorable.
+Meaning: “Rafiki” means friend in Swahili — conveys trust, support, and connection.
+Possible Uses: Great for AI assistants, mentorship tools, social apps, or anything related to guidance, community, or support.
+>
+> **"Vessel"** A large ship used for transporting goods, often across international waters.
+> 
+> **"Ship Chandler"** is a supplier or business that provides everything a ship might need when docked at port.
+> 
+> “The ship chandler delivered all the provisions before the vessel departed.”
+>
+
 
 ## **Author**
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/2900952?s=400&u=41c504ca200e2f92638fc630e8361da78296b35c&v=4" width="180" alt="Amr Ahmed Elghadban"/>
 
