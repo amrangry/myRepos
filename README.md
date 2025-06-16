@@ -33,7 +33,7 @@ Possible Uses: Great for AI assistants, mentorship tools, social apps, or anythi
 > **"Ship Chandler"** is a supplier or business that provides everything a ship might need when docked at port.
 > 
 > “The ship chandler delivered all the provisions before the vessel departed.”
->
+> **Craftsmanship**
 
 
 ## **Author**
